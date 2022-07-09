@@ -4,7 +4,7 @@
 
 - [x] Agregar mención de rol al sistema de tickets
 - [x] Mejorar el sistema de tickets
-- [ ] Hacer un sistema de niveles
+- [x] Hacer un sistema de niveles
 - [ ] Hacer sistema anti-raid
 - [ ] Mejorar el sistema de economia.
 
