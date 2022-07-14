@@ -7,6 +7,7 @@
 - [x] Hacer un sistema de niveles
 - [ ] Hacer sistema anti-raid
 - [ ] Mejorar el sistema de economia.
+- [ ] Roles con niveles
 
 Si tienes ideas para mejorar el bot, haz un PR agregando más cosas a la lista
 
