@@ -1,16 +1,8 @@
-# Master Nico
+# ⚡ Master Nico
 
-## TODO List:
+En este repositorio podrás enviar los errores que presente el bot.
 
-- [x] Agregar mención de rol al sistema de tickets
-- [x] Mejorar el sistema de tickets
-- [x] Hacer un sistema de niveles
-- [ ] Hacer sistema anti-raid
-- [ ] Mejorar el sistema de economia.
-- [ ] Roles con niveles
+Entra a la sección `Issues` y crea un nuevo reporte.
 
-Si tienes ideas para mejorar el bot, haz un PR agregando más cosas a la lista
-
-## Bugs:
-
-Reporta los bugs del bot en el apartado Issues, o manda un MD a ₊ drgato ˚#0001
+- Discord: https://discord.gg/FNsC4cDnTj
+- Web: https://masternico.tk
